@@ -11,3 +11,6 @@ Q=Quit
 
 Selecting a floor:
 Select between 1 to 10 floors only
+
+
+Done with the project
