@@ -1,3 +1,4 @@
+import time
 floor=1
 flag="true"
 while(flag):
@@ -52,9 +53,10 @@ while(flag):
 
         elif(sel=='f' or sel=='F'):
             print("DANGER! You must exit from the Elevator now!")
-            print("Don't be panic")
+            print("Don't be panic...WAIT....Eerything will be good")
             pass
             pass
+            time.sleep(10)
             print("Now,Elevator is ready")
             print("YOU ARE AT FLOOR:1")
             floor = 1
